@@ -1,0 +1,3 @@
+Loss on prediction on background data for Autoencoder: 0.08748386055231094
+Loss on prediction on background data for PCA: 0.025506198406219482
+Loss on prediction on background data for PCA: 0.02655634470283985
